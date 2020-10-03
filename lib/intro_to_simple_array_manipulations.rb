@@ -13,6 +13,6 @@ def using_pop array
 end
 
 def pop_with_args array
-newarray =  array.pop()
-newestarray = newarray.pop()
+  array.pop()
+
 end
